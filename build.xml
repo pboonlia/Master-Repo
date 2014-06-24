@@ -1,5 +1,5 @@
 <project name="AcordXMLGen"  basedir="." default="dist">
-	
+	<!-- J.2.6 Changes -->
 	<property environment="env"/>
 	
 	<property file="build.properties" />
